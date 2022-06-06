@@ -245,8 +245,6 @@ h1, h2, h3, h4, h5, h6 {
   background: url("../img/hero-bg.webp") top right no-repeat;
   background-size: cover;
   position: relative;
-  height: auto;
-  width: auto;
 }
 @media (min-width: 992px) {
   #hero {
