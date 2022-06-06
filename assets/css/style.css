@@ -968,7 +968,7 @@ section {
 .contact .php-email-form textarea {
   padding: 10px 12px;
 }
-.contact .php-email-form button[type=submit] {
+.contact .php-email-form button {
   background: #0563bb;
   border: 0;
   padding: 10px 35px;
@@ -976,7 +976,7 @@ section {
   transition: 0.4s;
   border-radius: 50px;
 }
-.contact .php-email-form button[type=submit]:hover {
+.contact .php-email-form button:hover {
   background: #0678e3;
 }
 @-webkit-keyframes animate-loading {
